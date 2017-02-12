@@ -1,0 +1,67 @@
+/* elements */
+
+body {
+  background-image: url("https://my.mixtape.moe/rmiqoy.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+}
+
+h1 {
+  color: #ff0000;
+  font-family: fixedsys, monospace;
+  font-size: calc(16px + 2vw);
+  text-decoration: underline;
+}
+
+h3 {
+  color: #000fff;
+  font-family: fixedsys, monospace;
+  font-size: calc(14px + 0.9vw);
+}
+
+div {
+  background-image: url("http://i.imgur.com/dj4BvMG.gif");
+  background-color: #a9a9a9;
+  width: 50%;
+  padding: 8px;
+  margin: 32px;
+}
+
+button {
+  display: inline-block;
+  width: 100%;
+  min-width: 90px;
+  padding: 16px;
+  text-align: center;
+  font-family: fixedsys, monospace;
+  font-size: calc(8px + 0.75vw);
+}
+
+p {
+  font-family: fixedsys, monospace;
+  font-size: calc(10px + 0.6vw);
+}
+
+/* id's */
+
+#games-button {
+  background-color: #00ff00;
+}
+
+#misc-button {
+  background-color: #0000ff;
+}
+
+#emulators-button {
+  background-color: #ff0000;
+}
+
+#paypal-button {
+  background-color: #ffff00;
+}
+
+#bitcoin-button {
+  background-color: #00ffff;
+}
